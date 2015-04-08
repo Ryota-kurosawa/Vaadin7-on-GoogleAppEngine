@@ -1,0 +1,6 @@
+com.vaadin.integration.eclipse.previousCompileAction=both
+com.vaadin.integration.eclipse.projectTypeGae=true
+com.vaadin.integration.eclipse.useLatestNightly=false
+com.vaadin.integration.eclipse.widgetsetCompilationEta=75093
+com.vaadin.integration.eclipse.widgetsetDirty=true
+eclipse.preferences.version=1
